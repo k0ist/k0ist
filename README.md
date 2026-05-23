@@ -6,4 +6,4 @@
 - 📫 tg: @k0ist
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k0ist)](https://github.com/k0ist/github-readme-stats)
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=k0ist&layout=compact&theme=vision-friendly-dark)
