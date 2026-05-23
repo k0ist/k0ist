@@ -6,4 +6,4 @@
 - 📫 tg: @k0ist
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k0ist)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k0ist)](https://github.com/k0ist/github-readme-stats)
